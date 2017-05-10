@@ -2,7 +2,11 @@
 Projet de simulation Physique pour la fac
 
 
-You need qtido.py in the folder in order to run it, so if you're not from Jean Monnet I doubt you can, sorry
+You need qtido.py, get it here : 
+
+git clone https://gitlab.univ-st-etienne.fr/remi.emonet/pyqtido.git
+
+
 
 ─────────▄──────────────▄
 ────────▌▒█───────────▄▀▒▌
